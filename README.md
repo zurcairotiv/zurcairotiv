@@ -3,9 +3,6 @@
 > [!IMPORTANT]
 > 💻 Estudante de Gestão da Tecnologia da Informação (5 semestre).
 
-<a href="mailto:vitoriacsilva530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-
 <div align="center">
   <a href="https://github.com/vickyy7">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vickyy7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,6 +17,7 @@
   <img align="right" alt="Vicky-pic" width="150" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/YyWp0e2BDFuitR1w3P/giphy.gif?cid=790b7611199db0c70b987bf028a270e3d566a28763405f77&rid=giphy.gif&ct=g">
 </div>
 
+<a href="mailto:vitoriacsilva530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 <!-- - 👋 Hi, I’m @zurcairotiv
 - 👀 I’m interested in ...
