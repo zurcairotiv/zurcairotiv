@@ -1,5 +1,3 @@
-# Vitória Cruz
-
 > [!IMPORTANT]
 > 💻 Estudante de Gestão da Tecnologia da Informação (5 semestre).
 
